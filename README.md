@@ -1,4 +1,4 @@
-## E os guri 👋
+## Cauã Victor Ribeiro Soares
 
 <!--
 **CauaBrawlstars/CauaBrawlstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
